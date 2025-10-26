@@ -37,12 +37,6 @@ Outside of coding, you’ll probably find me refining workflows, experimenting w
   <img src="https://github-readme-stats.vercel.app/api?username=anggerari&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggerari&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anggerari&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anggerari&theme=tokyonight&utcOffset=7" height="150"/>
-</p>
-
 ---
 
 ⭐ _“Engineering isn’t just about writing code. It’s about building systems that think, adapt, and last.”_
