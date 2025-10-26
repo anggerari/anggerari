@@ -45,4 +45,4 @@ Outside of coding, you’ll probably find me refining workflows, experimenting w
 
 ---
 
-⭐ _“Engineering isn’t just about writing code — it’s about building systems that think, adapt, and last.”_
+⭐ _“Engineering isn’t just about writing code. It’s about building systems that think, adapt, and last.”_
