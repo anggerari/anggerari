@@ -4,7 +4,7 @@
 I'm **Angger**, a **backend developer** from **Indonesia**, currently **working remotely across the world** 🌍.  
 I focus on building scalable APIs, designing efficient database architectures, and integrating systems that work seamlessly together.  
 
-I’m also deeply interested in **Artificial Intelligence** — exploring how backend systems, data flow, and automation can connect with AI to create smarter, more adaptive solutions.  
+I’m also deeply interested in **Artificial Intelligence** exploring how backend systems, data flow, and automation can connect with AI to create smarter, more adaptive solutions.  
 I enjoy blending logic, automation, and clean design to make technology more efficient and impactful.  
 
 Outside of coding, you’ll probably find me refining workflows, experimenting with new tools, or enjoying a good cup of coffee ☕.
